@@ -1,0 +1,19 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js-selfbot": "^12.0.2",
+    "discord.js-selfbot-v11": "^11.5.1",
+    "node-notifier": "^10.0.0",
+    "path": "^0.12.7",
+    "zerodayz.js": "^11.6.2"
+  }
+}
