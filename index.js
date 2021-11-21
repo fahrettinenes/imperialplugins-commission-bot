@@ -27,7 +27,7 @@ function notify() {
       {
         title: "ImperialPlugins new Commission", // String. Required
         message: "New comission has been released!", // String. Required if remove is not defined
-        icon: "no", // String. Absolute path to Icon
+        icon: "path/to/ur/icon", // String. Absolute path to Icon
         sound: true, // Bool | String (as defined by http://msdn.microsoft.com/en-us/library/windows/apps/hh761492.aspx)
         appID: "ImperialPlugins", // String. App.ID and app Name. Defaults to no value, causing SnoreToast text to be visible.
         remove: undefined, // Number. Refer to previously created notification to close.
